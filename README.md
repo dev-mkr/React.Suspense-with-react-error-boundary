@@ -60,6 +60,8 @@ export default App;
 
 ```
 Every component's code is now separated from the app component, and it's more cleaner.
+
+[![Edit react-suspense-with-react-error-boundary](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/github/dev-mkr/React.Suspense-with-react-error-boundary/tree/main/?fontsize=14&hidenavigation=1&theme=dark)
 ## Resources to learn SOLID
 - SOLID Principles بالعربى https://youtube.com/playlist?list=PLnqAlQ9hFYdflFSS4NigVB7aSoYPNwHTL
 - SOLID Design Principles https://youtube.com/playlist?list=PLZlA0Gpn_vH9kocFX7R7BAe_CvvOCO_p9
